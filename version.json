@@ -1,10 +1,21 @@
 {
   "script": "Codex Society",
-  "version": "1.0",
+  "version": "2.0",
   "changelog": [
-    "Nothing to Display",
+    "VORP MultiJob integration with job preservation and player job-limit checks.",
+    "Synchronized promotions, demotions, and firing across stored society jobs.",
+    "Employee roster support for inactive MultiJob employees.",
+    "Boss-controlled employee withdrawal permissions.",
+    "Society transaction history with recent-entry caching.",
+    "Multi-location societies with separate inventory stashes.",
+    "Crafting queues, prepared orders, and crafting XP progression.",
+    "Customer receipts with configurable prices and expiration.",
+    "Paid orders deposit funds directly into the society account.",
+    "Optional Codex Ranch contamination integration with configurable product treatments.",
+    "Contamination metadata preserved through crafting and customer receipts.",
+    "Cached society data with controlled saves and batched persistence.",
+    "Retry handling for failed database saves.",
+    "Runtime limits and cleanup for prepared orders and receipts.",
+    "Server code organized into dedicated feature modules."
   ]
-
 }
-
-
